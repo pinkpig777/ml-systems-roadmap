@@ -1,0 +1,9 @@
+# Reading — Model Compression
+
+## Required selections
+Model compression and sparsity lectures. Read the relevant sections only; course lecture numbering and documentation versions may change.
+
+- [MIT Efficient AI](https://hanlab.mit.edu/courses/2026-fall-65940)
+
+## Optional
+Follow references or source code only when needed to explain an observation.

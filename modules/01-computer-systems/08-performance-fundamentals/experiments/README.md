@@ -1,0 +1,14 @@
+# Lab 1.8 — Performance Fundamentals
+
+## Task
+Build a benchmark harness with repeated trials, warmup, median and tail statistics.
+
+## Protocol
+1. Record hardware, software versions and baseline.
+2. State a hypothesis and choose one independent variable; hold other relevant conditions fixed.
+3. Validate correctness or expected behavior before measuring.
+4. For performance tests, warm up, repeat trials, report median and variability; for asynchronous GPU work synchronize or use CUDA events as appropriate.
+5. Save code, commands and raw results here; explain confounders and limitations.
+
+## Acceptance
+Report reproducible measurements with controlled variables. No fabricated measurements. Hardware-dependent steps may be deferred with a reason.

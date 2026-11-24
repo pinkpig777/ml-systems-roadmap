@@ -1,0 +1,11 @@
+__pycache__/
+.venv*/
+.env
+*.nsys-rep
+*.ncu-rep
+*.sqlite
+*.safetensors
+*.pt
+*.bin
+.cache/
+.DS_Store
